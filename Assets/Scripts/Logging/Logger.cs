@@ -6,7 +6,7 @@ using ZLogger;
 namespace Logging
 {
     /// <summary>
-    /// Static Logger to Log messages into Console and to the Devops portal if configured
+    /// Static Logger to Log messages
     /// </summary>
     public static class Logger
     {
